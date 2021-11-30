@@ -1,0 +1,5 @@
+DISCORD_BOT_TOKEN=OTE0MzI1MzM2ODM2MTQ1MTky.YaLZ0w.I_td-Ezgzx4xm9Qka5DsIxE2ebo
+MOD_LOG_CHANNEL_ID=848017497374195754
+
+# These are not required, you can set them to override the default channels IDs on dev
+#RULES_CHANNEL_ID=123456789012345678
