@@ -1,0 +1,28 @@
+{
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/CVS": true,
+    "**/.git": true,
+    "**/.husky": true,
+    "**/node_modules": true,
+    "**/.vscode": true,
+    "package-lock.json": true,
+    "yarn.lock": true,
+    ".eslintcache": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
+}
